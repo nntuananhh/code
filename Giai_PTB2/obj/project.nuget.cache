@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2UB8/cK4mDI=",
+  "success": true,
+  "projectFilePath": "/workspaces/code/Giai_PTB2/Giai_PTB2.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.windowsdesktop.app.ref/10.0.4/microsoft.windowsdesktop.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
